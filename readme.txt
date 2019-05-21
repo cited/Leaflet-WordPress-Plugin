@@ -13,33 +13,6 @@ License:           GPLv3
 
 Easily create and display custom maps in your pages and posts. 
 
-
-== Description ==
-
-* [Plugin Home Page](https://www.acugis.com/leaflet-map-plugin/)
-* [Easy to Use](https://www.acugis.com/leaflet-map-plugin/easy-to-use/)
-* [Examples](https://www.acugis.com/leaflet-map-plugin/examples/)
-* [Docs and Help](https://www.acugis.com/leaflet-map-plugin/docs/)
-
-The AcuGIS Leaflet Maps Plugin allows you to create and display custom, stylish maps simply and easily.
-
-The AcuGIS works with any map provider (Google, OpenStreetMap, MapBox, BING, MapQuest, etc..) as well as our own maps.
-
-The AcuGIS Leaflet Map plugin is designed for ease of use.  Just click the marker icon and drop it onto the map.  Enter the location or address and address auto-complete will place the marker where you want it.  
-
-In addition to markers, you can also draw lines, polygons and squares. 
-
-A WYSIWYG editor allows you to add formatted text, images, and links to marker pop-ups.  Marker pop-ups can be standard or fancy modal see [screenshots] (https://wordpress.org/plugins/mapfig-premium-leaflet-map-maker/screenshots/).
-
-Add maps to your pages and posts in one click using the "Add AcuGIS Map" button see [screenshot 4] (https://wordpress.org/plugins/mapfig-premium-leaflet-map-maker/screenshots/).
-
-An integrated Widget is also included as well as Social Share, export, and all of the features below.
-
-The AcuGIS Leaflet Map plugin is 100% free with a limit of 5 maps.  
-
-For unlimited maps, it is only $5! The $5 also provides you with direct support and free updates and upgrades.  
-
-
 = Features =
 
 The AcuGIS MapFig Leaflet Maps main features are:
@@ -100,7 +73,7 @@ https://www.acugis.com/leaflet-map-plugin/
 
 That's all. 
 
-You will also have a "Add MapFig Map" button above your editor for pages and posts.
+You will also have a "Add AcuGIS Map" button above your editor for pages and posts.
 
 For basic usage and tutorials, please see [MapFig Leaflet Maps Plugin Docs](https://www.acugis.com/leaflet-map-plugin/docs/)
 
@@ -159,16 +132,6 @@ Let us know and we will work to resolve it.
 7. [Blog](http://www.acugis.com/docs)
 
 
-== Screenshots ==
-  
-01. MapFig Leaflet Maps Plugin - Simple, Easy to use
-02. WYSIWYG Editor for Marker and Shape Pop-Ups
-03. Modal Option for Large Content
-04. Add Maps to Pages in Post in one Click
-05. Standard Pop-Up Example
-06. Modal Pop-Up Example
-07. Social Share Maps and Download Maps as HTML, BootStrap, or JSON
-
 == Other Notes ==
 
 This plugin is created and is maintained by AcuGIS. AcuGIS provides GIS hosting services to some of the world's leading academic and research institutions as well as individuals and business of all sizes.
@@ -208,9 +171,8 @@ This plugin is released under GPLv3.
 == Thanks To: ==
 * David Ghedini ([http://www.davidghedini.com/](http://www.davidghedini.com/)) a.k.a MapFig
 * AcuGIS ([https://www.acugis.com/](https://www.acugis.com/)) from creating initiative
-* VooServers ([https://www.VooServers.com/](https://www.VooServers.com/)) for sponsoring initiave and free  [Public Cloud](https://studio.mapfig.com/)
 * Robert Williger
-* Muaaz Khalid ([http://www.fastesol.com](http://www.fastesol.com)) a.k.a Fastesol
+
 
 = Trademark and copyright =
 Cited, Inc &reg;
