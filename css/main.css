@@ -1,0 +1,5 @@
+.mf_link_open_modal{
+cursor: pointer;
+background:url("./images/s_icon.png") no-repeat scroll 100% 2px rgba(0, 0, 0, 0);
+padding-right:8px;
+}

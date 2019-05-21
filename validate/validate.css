@@ -1,0 +1,60 @@
+/*validation css*/
+label.valid {
+
+    height: 24px;
+    background: url(../img/valid.png) center center no-repeat !important;
+    display: inline-block;
+    text-indent: -9999px;
+}
+label.error {
+
+    height: 24px;
+    background: url(../img/error.png) center center no-repeat;
+    display: inline-block;
+    /* overflow: hidden; */
+    text-indent: 300%;
+    white-space: nowrap;   
+}
+label.labelsmall label.error{
+  text-indent: -9999px;
+}
+
+
+form.my_form label.valid,form.my_form  label.error{
+ width:20px !important; 
+}
+.my_form label.error {
+    width: 8px !important;
+    height: 24px;
+    background: url(../img/error.png) center center no-repeat;
+    display: inline-block;
+    text-indent: 5%;
+    color:#D53A38;
+	white-space: nowrap;  
+}
+
+form.my_form_add label.valid,form.my_form_add  label.error{
+ width:20px !important; 
+}
+.my_form_add label.error {
+    width: 8px !important;
+    height: 24px;
+    background: url(../img/error.png) center center no-repeat;
+    display: inline-block;
+    text-indent: 5%;
+	white-space: nowrap;  
+	color:#D53A38;
+}
+
+form.paypal_form label.valid,form.paypal_form  label.error{
+ width:20px !important; 
+}
+.paypal_form label.error {
+    width: 8px !important;
+    height: 24px;
+    background: url(../img/error.png) center center no-repeat;
+    display: inline-block;
+    text-indent: 5%;
+	white-space: nowrap;  
+	color:#D53A38;
+}
