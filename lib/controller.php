@@ -719,7 +719,7 @@ function render_html($MAP_ID = 0) {
 
 		<script src="'.plugins_url('../external/ExportControl.js', __FILE__).'"></script>
 
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDkvzRldm6ptsm2O5qOJyLvMHI5HeW5uhI&libraries=places"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=APIKEY&libraries=places"></script>
 
 		<script src="'.plugins_url('/../js/helper.js', __FILE__).'"></script>
 	';
